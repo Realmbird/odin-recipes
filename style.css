@@ -1,0 +1,15 @@
+*{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title{
+    text-align: center;
+    color: white;
+    background-color: gray;
+}
+.foods{
+    background-color: rgb(47, 198, 224);
+}
+.foods li{
+    background-color: aquamarine;
+}
